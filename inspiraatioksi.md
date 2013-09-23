@@ -1,4 +1,4 @@
-Pitkän kantaman tavoitteena on yhteisöllisen budjetointityökalun kehittäminen
+Pitkän tähtäimen tavoitteena on yhteisöllisen budjetointityökalun kehittäminen
 virkamiesten, eturyhmien, päättäjien ja kansalaisjärjestöjen käyttöön.
 Virtuaalisen budjetontiympäristön on mahdollistettava mm. eri tahojen
 esittämien budjettivaihtoehtojen vertailu, vaikutusanalyysi, yhdistely ja
