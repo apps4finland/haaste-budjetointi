@@ -78,17 +78,18 @@ tallennettu päähakemistoon nimellä Esimerkki.sas. Esimerkki.sas-tiedostolla
 pääsee alkuun simuloinnissa!
 * poista PVERO-tiedostosta "tulevaisuuden rivit" (v. 2014-2017) PARAM-kansiossa,
 ja pidä vain vuoden 2013 rivi.
-*t uloveroasteikon kynnystystä voi muuttaa (tämä simuloi lainsäädännön
-vaikutusta). Voidaan esim. simuloida eri vuosien vertailu 40-henkilön
-verotukseen eri palkkatasoilla
-* tuloveroaskteikkoa muuttamalla (PARAM, Pvero) voi tutkia sekä
+* Tuloveroasteikon kynnystystä voi muuttaa (tämä simuloi lainsäädännön
+vaikutusta). Voidaan simuloida esimerkiksi eri lainsäädäntövuosien vertailu tietyn
+ikäisen henkilön verotukseen eri palkkatasoilla
+* Tuloveroaskteikkoa muuttamalla (PARAM, Pvero) voi tutkia sekä
 valtakunnallisen että kunnallisveroprosentin vaikutusta.
 * Verottajan veroprosenttilaskuria voisi täydentää niin että voi valita eri
 vuodet (veroperusteiden muutokset)
-* ONGELMA: käyttäjät eivät hahmota esim. mitä tarkoittaa työtulovähennyksen
+* ONGELMA: käyttäjät eivät hahmota mitä tarkoittaa esim. työtulovähennyksen
 minimimäärä ja miksi se on kiinnitetty niin kuin se on. Jonkinmoisen selityksen
 voi hakea veroilmoituksen täyttöoppaasta Verottajan sivuilta, mutta syvempi
 merkitys, jota tarvitaan politiikkavaihtoehdoista väiteltäessä vaatii
-enemmän töitä. Esim. työtulovähennyksen kuvitellaan vaikuttavan kannustavasti
+enemmän töitä. Esim. työtulovähennys on parametrisoitu niin kuin on siitä
+syystä että kiinnitettyjen rajojen kuvitellaan vaikuttavan kannustavasti
 työn tekemiseen.
 
