@@ -1,0 +1,57 @@
+http://www.stat.fi/org/lainsaadanto/yleiset_kayttoehdot.html
+
+Maksuttomien tietojen yleiset käyttöehdot
+
+    * Yleistä
+    * Käyttöehdot
+    * Sovellettava laki
+    * Muutokset käyttöehtoihin
+
+1. Yleistä
+
+Nämä käyttöehdot koskevat tilastokeskus.fi-palvelussa sekä siihen liitetyissä maksuttomissa tietokantapalveluissa ja muissa tietotuotteissa olevien tietojen käyttöä.
+
+Aineistojen tuottaja ja tekijänoikeuden sekä tietokantasuojan haltija on Tilastokeskus, ellei tuotteen, tiedon tai palvelun yhteydessä erikseen toisin ilmoiteta. Käyttöehdot koskevat palvelussa olevia taulukoita, tilastokuvioita, tekstejä ja muuta tietoaineistoa.
+
+Tilastokeskus ei peri käyttöehtojen mukaisen aineiston käytöstä maksua.
+
+Aineistoa käytettäessä on nimettävä alkuperäislähde ja aineistoversion ajankohta, esimerkiksi (kursiivilla olevat tarvittaessa):
+
+    * © Tilastokeskus, [tilaston/palvelun nimi], [vuosiluku, päiväys]
+    * sisältää Tilastokeskuksen [aineiston nimi/tuotteen nimi/palvelun nimi] aineistoa, [tarkempi aikamääre] 2011
+    * kaavio perustuu Tilastokeskuksen [aineiston nimi/tuotteen nimi/palvelun nimi] aineistoon, [tarkempi aikamääre] 2011
+
+Vastaanottamalla, lataamalla tai muuten saattamalla aineistoja käyttöönsä käyttäjä hyväksyy nämä käyttöehdot.
+2. Käyttöehdot
+
+Käyttöoikeudet
+Tilastokeskus myöntää maailmanlaajuisen, maksuttoman, peruuttamattoman rinnakkaisen käyttöoikeuden edellä mainittuihin aineistoihin, joita voi vapaasti:
+
+    * kopioida ja levittää
+    * muokata ja hyödyntää kaupallisesti
+    * yhdistellä muihin tuotteisiin
+    * käyttää osana sovellusta tai palvelua.
+
+Käyttäjän velvollisuudet ja vastuut
+Käyttäjän on aineistoa tai siitä tehtyjä tuotteita käyttäessään ja edelleen luovuttaessaan:
+
+    * mainittava Tilastokeskuksen tekijän- tai muu oikeus ko. aineistoon kohdan 'Yleistä' mukaisesti
+    * vaadittava kohdan 1 "Yleistä" mukaista nimeämiskäytännön noudattamista myöntäessään lisenssejä tuotteeseen tai palveluun, jossa käyttää näiden ehtojen alaista aineistoa tai sen osaa
+    * poistettava maininta alkuperäislähteestä, mikäli Tilastokeskus sitä erikseen vaatii.
+
+Käyttäjä ei saa aineiston käytön yhteydessä ilmaista, että Tilastokeskus tukisi tai suosittelisi kyseistä aineiston käyttötapaa.
+
+Tilastokeskuksen velvollisuudet ja vastuut
+Tilastokeskus ei vastaa aineistossa mahdollisesti esiintyvistä virheistä eikä aineiston käytöstä aiheutuvista välittömistä tai välillisistä vahingoista. Tilastokeskus ei myönnä aineistolle tai siinä olevien tietojen oikeellisuudelle tai ajantasaisuudelle takuuta.
+
+Tilastokeskus ei takaa, että aineisto olisi jatkuvasti saatavilla. Tilastokeskus ei takaa, että aineisto tai aineiston rakenne säilyisi muuttumattomana. Muutoksia voi tulla esimerkiksi, kun aineisto taulukoidaan eri tavalla tai uusia tietoja lisätään.
+3. Sovellettava laki
+
+Näihin käyttöoikeuksiin sovelletaan Suomen lakia.
+4. Muutokset käyttöehtoihin
+
+Tilastokeskus voi milloin tahansa muuttaa näitä käyttöehtoja tai soveltaa tietoihin eri käyttöehtoja. Käyttöehtoja ei kuitenkaan muuteta takautuvasti.
+
+ 
+
+Päivitetty 24.1.2012 
